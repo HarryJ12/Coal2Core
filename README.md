@@ -1,6 +1,6 @@
 <div align="center">
 
-# Coal2Core
+# Coal2Core - ML-powered SMR site ranking
 
 **Ranking retired U.S. coal plant sites for Small Modular Reactor conversion using machine learning**
 
