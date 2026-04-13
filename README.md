@@ -61,14 +61,14 @@ Ground truth scores weight:
 - **Mapbox GL JS 3** - interactive plant map
 - **Tailwind CSS 4** - dark-theme UI
 - **KaTeX** - formula rendering on methodology pages
-- **TypeScript**
+- **TypeScript** - end-to-end type safety
 
 ### ML & Data Pipeline
 - **Python** - pandas, scikit-learn, numpy
 - **PySR** - symbolic regression (Julia backend)
 - **SVR (RBF kernel)** - final predictive model
 - **Monte Carlo simulation** - 1,000-iteration robustness testing
-- **Jupyter Notebooks**
+- **Jupyter Notebooks** - exploratory analysis and pipeline documentation
 
 ---
 
