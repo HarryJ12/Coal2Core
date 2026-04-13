@@ -114,8 +114,8 @@ Open [http://localhost:3000](http://localhost:3000).
 
 Open the notebooks in order:
 
-1. `ml_and_data_pipeline/testing_pipeline.ipynb` — feature engineering & symbolic regression
-2. `ml_and_data_pipeline/training_pipeline.ipynb` — SVR training, validation, Monte Carlo, financial output
+1. `ml_and_data_pipeline/testing_pipeline.ipynb` - feature engineering & symbolic regression
+2. `ml_and_data_pipeline/training_pipeline.ipynb` - SVR training, validation, Monte Carlo, financial output
 
 Requires: `pandas`, `scikit-learn`, `numpy`, `pysr`, `matplotlib`
 
