@@ -27,7 +27,7 @@ The U.S. Department of Energy has found that ~80% of screened coal sites are phy
 
 - **ML scoring:** Evaluates every coal site on grid infrastructure, cooling water access, terrain, population buffer, seismic risk, and state regulatory policy
 - **Interactive map:** Visualizes all 374 plants with color-coded suitability tiers on a dark Mapbox GL canvas
-- **Financial modeling: ** Calculates CapEx, LCOE, and 40-year NPV per site across three scenarios (Optimistic / Base / Pessimistic)
+- **Financial modeling:** Calculates CapEx, LCOE, and 40-year NPV per site across three scenarios (Optimistic / Base / Pessimistic)
 - **Monte Carlo robustness:** 1,000-iteration simulation validates top sites under operational and economic uncertainty
 - **Environmental impact:** Estimates annual CO₂ reduction and potential AI data center capacity per plant
 
@@ -58,16 +58,16 @@ Ground truth scores weight:
 
 ### Frontend
 - **Next.js 16** + React 19 (App Router, Turbopack)
-- **Mapbox GL JS 3** — interactive plant map
-- **Tailwind CSS 4** — dark-theme UI
-- **KaTeX** — formula rendering on methodology pages
+- **Mapbox GL JS 3** for interactive plant map
+- **Tailwind CSS 4** for dark-theme UI
+- **KaTeX** for formula rendering on methodology pages
 - **TypeScript**
 
 ### ML & Data Pipeline
-- **Python** — pandas, scikit-learn, numpy
-- **PySR** — symbolic regression (Julia backend)
-- **SVR (RBF kernel)** — final predictive model
-- **Monte Carlo simulation** — 1,000-iteration robustness testing
+- **Python** - pandas, scikit-learn, numpy
+- **PySR** - symbolic regression (Julia backend)
+- **SVR (RBF kernel)** - final predictive model
+- **Monte Carlo simulation** - 1,000-iteration robustness testing
 - **Jupyter Notebooks**
 
 ---
@@ -81,10 +81,10 @@ Coal2Core/
 │   ├── components/           # MapComponent, Sidebar, InfoPanel, Navbar, Dashboard
 │   └── lib/                  # coalPlantData.ts (374 plants), types.ts
 ├── ml_and_data_pipeline/
-│   ├── training_pipeline.ipynb        # SVR training, cross-validation, Monte Carlo, financials
-│   ├── testing_pipeline.ipynb         # Feature engineering, PySR symbolic regression
-│   ├── coal_to_smr_final.csv          # Final scored dataset (374 plants)
-│   └── monte_carlo_top20_robust_sites.csv
+│   ├── training_pipeline.ipynb            # SVR training, cross-validation, Monte Carlo, financials
+│   ├── testing_pipeline.ipynb             # Feature engineering, PySR symbolic regression
+│   ├── coal_to_smr_final.csv              # Final scored dataset (374 plants)
+│   └── monte_carlo_top20_robust_sites.csv # Monte Carlo output: top 10 robust coal-to-SMR candidates
 ├── next.config.ts
 ├── tsconfig.json
 └── package.json
