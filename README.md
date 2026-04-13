@@ -76,17 +76,9 @@ Ground truth scores weight:
 
 ```
 Coal2Core/
-├── src/
-│   ├── app/                  # Next.js pages (dashboard, methodology, importance, fears)
-│   ├── components/           # MapComponent, Sidebar, InfoPanel, Navbar, Dashboard
-│   └── lib/                  # coalPlantData.ts (374 plants), types.ts
-├── ml_and_data_pipeline/
-│   ├── training_pipeline.ipynb            # SVR training, cross-validation, Monte Carlo, financials
-│   ├── testing_pipeline.ipynb             # Feature engineering, PySR symbolic regression
-│   ├── coal_to_smr_final.csv              # Final scored dataset (374 plants)
-│   └── monte_carlo_top20_robust_sites.csv # Monte Carlo output: top 10 robust coal-to-SMR candidates
+├── src/                      # Next.js frontend (pages, components, data)
+├── ml_and_data_pipeline/     # Jupyter notebooks, trained model outputs, and CSV datasets
 ├── next.config.ts
-├── tsconfig.json
 └── package.json
 ```
 
