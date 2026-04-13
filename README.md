@@ -131,4 +131,13 @@ Requires: `pandas`, `scikit-learn`, `numpy`, `pysr`, `matplotlib`
 
 ---
 
-## Built at the Tufts Data Science Club — NSDC Datathon 2026
+## License
+
+Copyright © 2026 Coal2Core. All rights reserved.
+
+---
+
+<div align="center">
+
+**Built by the Coal2Core Team at Tufts Data Science Club - NSDC Datathon 2026**
+
