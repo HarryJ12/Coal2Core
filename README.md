@@ -58,9 +58,9 @@ Ground truth scores weight:
 
 ### Frontend
 - **Next.js 16** + React 19 (App Router, Turbopack)
-- **Mapbox GL JS 3** for interactive plant map
-- **Tailwind CSS 4** for dark-theme UI
-- **KaTeX** for formula rendering on methodology pages
+- **Mapbox GL JS 3** - interactive plant map
+- **Tailwind CSS 4** - dark-theme UI
+- **KaTeX** - formula rendering on methodology pages
 - **TypeScript**
 
 ### ML & Data Pipeline
