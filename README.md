@@ -76,8 +76,16 @@ Ground truth scores weight:
 
 ```
 Coal2Core/
-├── src/                      # Next.js frontend (pages, components, data)
-├── ml_and_data_pipeline/     # Jupyter notebooks, trained model outputs, and CSV datasets
+├── src/
+│   ├── app/          # Next.js pages (map, methodologies, etc.)
+│   ├── components/   # React UI components
+│   ├── lib/          # Data and TypeScript types
+│   └── public/       # Images and static assets
+├── ml_and_data_pipeline/
+│   ├── training_pipeline.ipynb
+│   ├── testing_pipeline.ipynb
+│   ├── figures/      # Generated charts
+│   └── *.csv         # Site datasets and model outputs
 ├── next.config.ts
 └── package.json
 ```
