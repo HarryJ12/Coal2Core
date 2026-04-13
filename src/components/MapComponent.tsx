@@ -318,6 +318,9 @@ export default function MapComponent({ onSelectPlant, filteredIds }: MapComponen
         }
         .mapboxgl-ctrl-attrib a { color: #525252 !important; }
         .mapboxgl-ctrl-bottom-right { bottom: 24px; right: 12px; }
+        @media (max-width: 1024px) {
+          .mapboxgl-ctrl-bottom-right { bottom: 80px; right: 8px; }
+        }
         .plant-popup .mapboxgl-popup-content {
           background: #1a1a1a;
           border: 1px solid #2a2a2a;

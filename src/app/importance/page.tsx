@@ -3,21 +3,21 @@ import Image from 'next/image';
 export default function ImportancePage() {
   return (
     <div className="h-full overflow-y-auto bg-[#0a0a0a]">
-      <div className="max-w-7xl mx-auto px-8 py-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 lg:py-16">
 
         {/* Main Header */}
-        <div className="text-center mb-20">
-          <h1 className="text-4xl font-bold tracking-widest uppercase text-white">
+        <div className="text-center mb-10 sm:mb-16 lg:mb-20">
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold tracking-[0.12em] sm:tracking-widest uppercase text-white leading-tight">
             Why It Matters: Decarbonizing the Future
           </h1>
         </div>
 
         {/* Section 1 — Carbon */}
-        <div className="mb-20">
-          <h2 className="text-[18px] font-mono tracking-[0.25em] uppercase mb-8 text-emerald-400">
+        <div className="mb-12 sm:mb-16 lg:mb-20">
+          <h2 className="text-[15px] sm:text-[17px] lg:text-[18px] font-mono tracking-[0.15em] sm:tracking-[0.25em] uppercase mb-5 sm:mb-8 text-emerald-400 leading-snug">
             Understanding Our Carbon Crisis
           </h2>
-          <div className="grid grid-cols-2 gap-10">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8 lg:gap-10">
             <div className="flex flex-col gap-5">
               <p className="text-[13px] text-zinc-400 leading-relaxed">
                 Burning carbon from coal, oil, and natural gas remains the primary driver of climate change, with emissions still rising. In 2025, global fossil fuel CO₂ emissions hit a record 38.1 billion tons, pushing atmospheric CO₂ over 52% above pre-industrial levels (now exceeding 429 ppm).
@@ -38,12 +38,12 @@ export default function ImportancePage() {
                 <strong className="text-zinc-200">Bottom line:</strong> Expanding clean baseload energy like nuclear is necessary to reduce emissions rapidly without sacrificing reliability.
               </p>
             </div>
-            <div className="relative w-full self-stretch">
+            <div className="relative w-full min-h-[220px] sm:min-h-[300px] lg:min-h-0 self-stretch">
               <Image
                 src="/carbon-crisis.png"
                 alt="Carbon Crisis"
                 fill
-                sizes="50vw"
+                sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-contain rounded-sm"
               />
             </div>
@@ -52,10 +52,10 @@ export default function ImportancePage() {
 
         {/* Section 2 — AI */}
         <div>
-          <h2 className="text-[18px] font-mono tracking-[0.25em] uppercase mb-6 text-emerald-400">
+          <h2 className="text-[15px] sm:text-[17px] lg:text-[18px] font-mono tracking-[0.15em] sm:tracking-[0.25em] uppercase mb-5 sm:mb-6 text-emerald-400 leading-snug">
             AI's Explosive Energy Footprint
           </h2>
-          <div className="grid grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             <div className="flex flex-col gap-5">
               <p className="text-[13px] text-zinc-400 leading-relaxed">
                 As AI systems and other large-scale models expand rapidly, data centers are being built at an unprecedented pace across the U.S. and around the world. These facilities demand massive amounts of constant, 24/7 power, with zero tolerance for downtime.
@@ -82,7 +82,7 @@ export default function ImportancePage() {
                 alt="AI Energy Demand"
                 width={0}
                 height={0}
-                sizes="100vw"
+                sizes="(max-width: 1024px) 100vw, 50vw"
                 className="w-full h-auto rounded-sm"
               />
             </div>

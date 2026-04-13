@@ -7,6 +7,8 @@ interface SidebarProps {
   visiblePlants: CoalPlant[];
   filterState: FilterState;
   onFilterChange: (f: FilterState) => void;
+  className?: string;
+  onRequestClose?: () => void;
 }
 
 const STATUS_OPTS: { value: StatusFilter; label: string }[] = [
@@ -28,19 +30,38 @@ const SCORING_FACTORS = [
   'Regulatory environment',
 ];
 
-export default function Sidebar({ visiblePlants: _visiblePlants, filterState, onFilterChange }: SidebarProps) {
+export default function Sidebar({
+  visiblePlants: _visiblePlants,
+  filterState,
+  onFilterChange,
+  className,
+  onRequestClose,
+}: SidebarProps) {
   function set<K extends keyof FilterState>(key: K, val: FilterState[K]) {
     onFilterChange({ ...filterState, [key]: val });
   }
 
 
   return (
-    <aside className="w-80 shrink-0 bg-zinc-950 border-r border-zinc-800 flex flex-col overflow-y-auto">
+    <aside className={[
+      'w-80 shrink-0 bg-zinc-950 border-r border-zinc-800 flex flex-col overflow-y-auto',
+      className ?? '',
+    ].join(' ')}>
       {/* Header */}
-      <div className="px-5 pt-5 pb-4 border-b border-zinc-800">
-        <p className="text-[15px] font-mono tracking-[0.15em] text-emerald-400 uppercase">
+      <div className="px-5 pt-5 pb-4 border-b border-zinc-800 flex items-start justify-between gap-3">
+        <p className="text-[15px] font-mono tracking-[0.15em] text-emerald-400 uppercase leading-tight">
           SMR Suitability Map
         </p>
+        {onRequestClose && (
+          <button
+            type="button"
+            onClick={onRequestClose}
+            className="lg:hidden inline-flex items-center justify-center w-7 h-7 rounded border border-zinc-700 text-zinc-400 hover:text-white hover:border-zinc-500"
+            aria-label="Close filters panel"
+          >
+            ×
+          </button>
+        )}
       </div>
 
       {/* About */}

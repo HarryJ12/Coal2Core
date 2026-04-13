@@ -15,6 +15,8 @@ import {
 interface InfoPanelProps {
   plant: CoalPlant | null;
   stressTest: StressTest;
+  className?: string;
+  onRequestClose?: () => void;
 }
 
 function ScoreBar({ score, color }: { score: number; color: string }) {
@@ -46,10 +48,32 @@ function EconRow({ label, value, highlight = false }: { label: string; value: st
 }
 
 
-export default function InfoPanel({ plant, stressTest }: InfoPanelProps) {
+export default function InfoPanel({
+  plant,
+  stressTest,
+  className,
+  onRequestClose,
+}: InfoPanelProps) {
   if (!plant) {
     return (
-      <aside className="w-80 shrink-0 bg-zinc-950 border-l border-zinc-800 flex flex-col items-center justify-center">
+      <aside className={[
+        'w-80 shrink-0 bg-zinc-950 border-l border-zinc-800 flex flex-col items-center justify-center',
+        className ?? '',
+      ].join(' ')}>
+        {onRequestClose && (
+          <div className="w-full px-4 pt-4 pb-0 lg:hidden">
+            <div className="flex justify-end">
+              <button
+                type="button"
+                onClick={onRequestClose}
+                className="inline-flex items-center justify-center w-7 h-7 rounded border border-zinc-700 text-zinc-400 hover:text-white hover:border-zinc-500"
+                aria-label="Close details panel"
+              >
+                ×
+              </button>
+            </div>
+          </div>
+        )}
         <div className="text-center px-8">
           <div className="w-10 h-10 mx-auto mb-4 rounded-full border border-zinc-700 flex items-center justify-center">
             <div className="w-2 h-2 rounded-full bg-zinc-600" />
@@ -79,7 +103,25 @@ export default function InfoPanel({ plant, stressTest }: InfoPanelProps) {
     plant.suitability_score >= 85 ? 'text-emerald-400' : plant.suitability_score >= 75 ? 'text-yellow-400' : 'text-red-400';
 
   return (
-    <aside className="w-80 shrink-0 bg-zinc-950 border-l border-zinc-800 flex flex-col overflow-y-auto">
+    <aside className={[
+      'w-80 shrink-0 bg-zinc-950 border-l border-zinc-800 flex flex-col overflow-y-auto',
+      className ?? '',
+    ].join(' ')}>
+
+      {onRequestClose && (
+        <div className="px-4 pt-4 pb-0 lg:hidden">
+          <div className="flex justify-end">
+            <button
+              type="button"
+              onClick={onRequestClose}
+              className="inline-flex items-center justify-center w-7 h-7 rounded border border-zinc-700 text-zinc-400 hover:text-white hover:border-zinc-500"
+              aria-label="Close details panel"
+            >
+              ×
+            </button>
+          </div>
+        </div>
+      )}
 
       {/* Identity Header */}
       <div className="px-5 pt-5 pb-4 border-b border-zinc-800">

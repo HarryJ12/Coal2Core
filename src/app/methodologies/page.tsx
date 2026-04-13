@@ -92,11 +92,11 @@ const philosophyCards: Card[] = [
 export default function MethodologiesPage() {
   return (
     <div className="h-full overflow-y-auto bg-[#0a0a0a]">
-      <div className="max-w-7xl mx-auto px-8 py-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 lg:py-16">
 
         {/* Header */}
-        <header className="mb-16">
-          <h1 className="text-4xl font-bold tracking-widest uppercase text-white mb-4 text-center">
+        <header className="mb-10 sm:mb-14 lg:mb-16">
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold tracking-[0.14em] sm:tracking-widest uppercase text-white mb-3 sm:mb-4 text-center leading-tight">
             Our Philosophy
           </h1>
         </header>
@@ -106,12 +106,12 @@ export default function MethodologiesPage() {
           {philosophyCards.map((card) => (
             <article
               key={card.heading}
-              className="px-6 py-6 bg-[#1a1a1a] border border-[#222222] rounded-sm"
+              className="px-4 sm:px-6 py-5 sm:py-6 bg-[#1a1a1a] border border-[#222222] rounded-sm"
             >
               <p className="text-[10px] font-mono tracking-[0.25em] uppercase text-emerald-400 mb-3">
                 {card.category}
               </p>
-              <h2 className="text-[16px] font-semibold text-white mb-4 max-w-3xl">
+              <h2 className="text-[15px] sm:text-[16px] font-semibold text-white mb-4 max-w-3xl leading-snug">
                 {card.heading}
               </h2>
               <div className="space-y-3">
@@ -124,7 +124,7 @@ export default function MethodologiesPage() {
 
               {/* Model comparison table */}
               {card.table && (
-                <div className="mt-4 w-full overflow-x-auto bg-[#141414] border border-[#222222] px-4 py-3">
+                <div className="mt-4 w-full overflow-x-auto bg-[#141414] border border-[#222222] px-3 sm:px-4 py-3">
                   <table className="w-full text-[11px] font-mono border-collapse">
                     <thead>
                       <tr className="border-b border-[#2a2a2a]">
@@ -182,7 +182,7 @@ export default function MethodologiesPage() {
               )}
 
               {card.stat && (
-                <div className="mt-5 inline-flex flex-col px-4 py-3 bg-[#141414] border border-[#222222] min-w-[210px]">
+                <div className="mt-5 inline-flex flex-col px-4 py-3 bg-[#141414] border border-[#222222] min-w-[190px] sm:min-w-[210px]">
                   <span className="text-2xl font-bold text-white leading-tight">
                     {card.stat.value}
                   </span>
@@ -196,7 +196,7 @@ export default function MethodologiesPage() {
         </div>
 
         {/* Footer */}
-        <footer className="pt-6 pb-10 text-[11px] text-zinc-600 leading-relaxed space-y-2">
+        <footer className="pt-6 pb-8 sm:pb-10 text-[11px] text-zinc-600 leading-relaxed space-y-2">
           <div>
             Data sources:{" "}
             <a href="https://www.eia.gov/electricity/data/eia860/" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-400 underline underline-offset-2">EIA-860 Form Data</a>

@@ -131,6 +131,14 @@ Requires: `pandas`, `scikit-learn`, `numpy`, `pysr`, `matplotlib`
 
 ---
 
+## Data Sources
+
+- [EIA-860 Form Data](https://www.eia.gov/electricity/data/eia860/)
+- [ORNL SMR Siting Criteria](https://info.ornl.gov/sites/publications/Files/Pub164448.pdf)
+- [INL Coal-to-Nuclear 2022 Report](https://sai.inl.gov/content/uploads/29/2024/11/c2n2022report.pdf)
+
+---
+
 ## License
 
 Copyright © 2026 Coal2Core. All rights reserved.
