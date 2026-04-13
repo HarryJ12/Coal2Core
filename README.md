@@ -15,21 +15,21 @@
 
 ## The Problem
 
-Global warming is accelerating. Coal plants across the U.S. are retiring. At the same time, AI-driven electricity demand is exploding — and we're still heavily reliant on fossil fuels.
+Global warming is accelerating. Coal plants across the U.S. are retiring. At the same time, AI-driven electricity demand is exploding, and we're still heavily reliant on fossil fuels.
 
 The U.S. Department of Energy has found that ~80% of screened coal sites are physically suitable for advanced nuclear. Massachusetts Governor Maura Healey recently launched an initiative to build 10 GW of new energy resources, including nuclear power. The opportunity is right in front of us.
 
-**Coal2Core** is a data-driven platform that scores 374 U.S. coal plant sites for Small Modular Reactor (SMR) conversion viability — combining symbolic regression, SVR machine learning, Monte Carlo stress-testing, and financial modeling into an interactive map.
+**Coal2Core** is a data-driven platform that scores 374 U.S. coal plant sites for Small Modular Reactor (SMR) conversion viability, combining symbolic regression, SVR machine learning, Monte Carlo stress-testing, and financial modeling into an interactive map.
 
 ---
 
 ## What It Does
 
-- **ML scoring** — Evaluates every coal site on grid infrastructure, cooling water access, terrain, population buffer, seismic risk, and state regulatory policy
-- **Interactive map** — Visualizes all 374 plants with color-coded suitability tiers on a dark Mapbox GL canvas
-- **Financial modeling** — Calculates CapEx, LCOE, and 40-year NPV per site across three scenarios (Optimistic / Base / Pessimistic)
-- **Monte Carlo robustness** — 1,000-iteration simulation validates top sites under operational and economic uncertainty
-- **Environmental impact** — Estimates annual CO₂ reduction and potential AI data center capacity per plant
+- **ML scoring:** Evaluates every coal site on grid infrastructure, cooling water access, terrain, population buffer, seismic risk, and state regulatory policy
+- **Interactive map:** Visualizes all 374 plants with color-coded suitability tiers on a dark Mapbox GL canvas
+- **Financial modeling: ** Calculates CapEx, LCOE, and 40-year NPV per site across three scenarios (Optimistic / Base / Pessimistic)
+- **Monte Carlo robustness:** 1,000-iteration simulation validates top sites under operational and economic uncertainty
+- **Environmental impact:** Estimates annual CO₂ reduction and potential AI data center capacity per plant
 
 ---
 
