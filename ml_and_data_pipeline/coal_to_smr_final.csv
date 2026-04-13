@@ -1,0 +1,275 @@
+Plant Code,Plant Name,State,County,Latitude,Longitude,Nameplate Capacity (MW),Retirement Year,Name of Water Source,suitability_score,predicted_score,suitability_class,co2_reduction_tons_per_year
+3,Barry,AL,Mobile,31.0069,-88.0103,272.0,2015.0,Mobile River,3,2.76,Poor (3+ violations),1448336.352
+8,Gorgas,AL,Walker,33.644344,-87.196486,1416.7,2019.0,Warrior River,1,0.89,Good (1 violation),7543595.992200001
+47,Colbert,AL,Colbert,34.7439,-87.8486,1350.0,2016.0,Tennessee River,1,1.17,Good (1 violation),7188434.100000001
+50,Widows Creek,AL,Jackson,34.883022,-85.755253,1968.6,2015.0,Tennessee River,1,0.8,Good (1 violation),10482334.3476
+51,Dolet Hills,LA,DeSoto,32.030556,-93.569167,720.7,2021.0,Toledo Bend Lake,1,1.42,Good (1 violation),3837558.8562000003
+54,J K Smith,KY,Clark,37.8833,-84.1017,329.4,,Kentucky River,2,1.86,Fair (2 violations),1753977.9204000002
+56,Lowman Energy Center,AL,Washington,31.488019,-87.910747,538.0,2020.0,Tombigbee River,1,1.9,Good (1 violation),2864724.108
+79,Chena Power Plant,AK,Fairbanks North Star,64.847743,-147.735063,3.8,2009.0,Chena River,3,2.8,Poor (3+ violations),20234.110800000002
+87,Escalante,NM,McKinley,35.4159,-108.082,257.0,2020.0,Wells,2,1.63,Fair (2 violations),1368464.862
+113,Cholla,AZ,Navajo,34.9394,-110.3033,702.9,2020.0,Lake Wells,0,1.1,Excellent (0 violations),3742778.0214000004
+136,Seminole (FL),FL,Putnam,29.733056,-81.632778,1564.6,2024.0,St Johns River,1,0.41,Good (1 violation),8331128.883600001
+165,GREC,OK,Mayes,36.190278,-95.2894,540.0,2020.0,Grand Neosho,0,0.77,Excellent (0 violations),2875373.6399999997
+207,St Johns River Power Park,FL,Duval,30.4308,-81.5508,1358.0,2018.0,St. Johns River,1,0.8,Good (1 violation),7231032.228
+462,W N Clark,CO,Fremont,38.4344,-105.25,43.7,2013.0,Arkansas River,3,2.8,Poor (3+ violations),232692.27420000004
+465,Arapahoe,CO,Denver,39.67,-105.0028,240.5,2013.0,South Platte River,3,2.4,Poor (3+ violations),1280606.223
+468,Cameo,CO,Mesa,39.127778,-108.326111,75.0,2010.0,Colorado River,3,2.97,Poor (3+ violations),399357.45
+469,Cherokee,CO,Adams,39.807275,-104.964548,420.5,2015.0,South Platte River,1,1.85,Good (1 violation),2239064.1030000006
+470,Comanche (CO),CO,Pueblo,38.2081,-104.5747,382.5,2022.0,Arkansas River,1,1.21,Good (1 violation),2036722.995
+477,Valmont,CO,Boulder,40.0195,-105.202,191.7,2017.0,South Boulder Creek,2,2.13,Fair (2 violations),1020757.6422000001
+492,South Plant (CO),CO,El Paso,38.824444,-104.833333,125.0,2022.0,Municipality,2,1.74,Fair (2 violations),665595.75
+508,Lamar Plant,CO,Prowers,38.033327,-102.537915,43.5,2014.0,Wells,3,2.74,Poor (3+ violations),231627.32100000005
+511,Trinidad (CO),CO,Las Animas,37.178979,-104.487492,3.7,2017.0,Municipality,2,2.49,Fair (2 violations),19701.6342
+527,Nucla,CO,Montrose,38.2383,-108.5069,113.8,2019.0,San Miguel River,2,2.0,Fair (2 violations),605958.3708
+568,Bridgeport Station,CT,Fairfield,41.1706,-73.1844,400.0,2021.0,Aquarion Water Co,2,2.2,Fair (2 violations),2129906.4000000004
+594,Indian River Generating Station,DE,Sussex,38.5857,-75.2341,340.0,2014.0,Indian River,3,3.2,Poor (3+ violations),1810420.4400000002
+628,Crystal River,FL,Citrus,28.9656,-82.6977,964.3,2018.0,Gulf of Mexico,1,1.21,Good (1 violation),5134671.8538
+642,Scholz,FL,Jackson,30.6692,-84.8869,98.0,2015.0,Apalachicola River,3,2.8,Poor (3+ violations),521827.0680000001
+643,Lansing Smith,FL,Bay,30.2686,-85.7003,340.0,2016.0,North Bay,2,2.25,Fair (2 violations),1810420.4400000002
+645,Big Bend,FL,Hillsborough,27.7944,-82.4036,445.5,2021.0,Tampa Bay,2,1.82,Fair (2 violations),2372183.2530000005
+646,F J Gannon,FL,Hillsborough,27.907222,-82.423055,617.0,2004.0,Hillsborough Bay,2,2.38,Fair (2 violations),3285380.6220000004
+676,C D McIntosh Jr,FL,Polk,28.0801,-81.9229,363.8,2021.0,Municipality,2,1.97,Fair (2 violations),1937149.8708000004
+699,Arkwright,GA,Bibb,32.926944,-83.699444,89.2,2002.0,Ocmulgee River,3,2.8,Poor (3+ violations),474969.1272000001
+708,Hammond,GA,Floyd,34.2528,-85.3456,953.0,2019.0,Coosa River,0,0.25,Excellent (0 violations),5074501.998
+709,Harllee Branch,GA,Putnam,33.195,-83.2983,1746.2,2015.0,Lake Sinclair,0,0.0,Excellent (0 violations),9298106.389200002
+710,Jack McDonough,GA,Cobb,33.8239,-84.4758,598.4,2012.0,Chattahoochee River,1,1.26,Good (1 violation),3186339.9744
+727,Mitchell (GA),GA,Dougherty,31.444728,-84.134696,218.2,2016.0,Flint River,2,1.72,Fair (2 violations),1161863.9412000002
+728,Yates,GA,Coweta,33.4622,-84.8986,679.9,2015.0,Chattahoochee River,0,0.92,Excellent (0 violations),3620308.4034000007
+733,Kraft,GA,Chatham,32.1486,-81.1458,207.9,2015.0,Savannah River,2,1.87,Fair (2 violations),1107018.8514000003
+861,Coffeen,IL,Montgomery,39.0586,-89.4031,1005.4,2019.0,McDavid Branch,0,0.0,Excellent (0 violations),5353519.736400001
+867,Crawford,IL,Cook,41.82848,-87.72291,597.4000000000001,2012.0,Chicago Sanitary and Ship,1,1.47,Good (1 violation),3181015.2084000013
+883,Waukegan,IL,Lake,42.3833,-87.8133,802.7,2022.0,Lake Michigan,0,0.2,Excellent (0 violations),4274189.6682
+884,Will County,IL,Will,41.6334,-88.0629,1268.8,2022.0,Chicago Sanitary and Ship,0,0.0,Excellent (0 violations),6756063.100800001
+886,Fisk Street,IL,Cook,41.8508,-87.6533,374.0,2012.0,Chicago Sanitary and Ship,2,2.0,Fair (2 violations),1991462.4840000002
+889,Baldwin Energy Complex,IL,Randolph,38.205,-89.8544,634.5,2020.0,"Baldwin Lake, Kaskaskia River",0,0.59,Excellent (0 violations),3378564.0270000007
+891,Havana,IL,Mason,40.2797,-90.08,488.0,2019.0,Illinois River,1,1.03,Good (1 violation),2598485.808
+892,Hennepin Power Station,IL,Putnam,41.3028,-89.315,306.3,2019.0,Illinois River,1,1.49,Good (1 violation),1630975.8258
+897,Vermilion,IL,Vermilion,40.1781,-87.7481,182.3,2011.0,Vermilion Reservoir,3,2.53,Poor (3+ violations),970704.8418000002
+898,Wood River,IL,Madison,38.8639,-90.1347,500.1,2016.0,Mississippi River,0,1.25,Excellent (0 violations),2662915.4765999997
+963,Dallman,IL,Sangamon,39.754803,-89.602389,387.70000000000005,2024.0,Lake Springfield,1,0.8,Good (1 violation),2064411.7782000005
+964,Lakeside,IL,Sangamon,39.757327,-89.600512,75.0,2009.0,Lake Springfield,3,2.93,Poor (3+ violations),399357.45
+976,Marion,IL,Williamson,37.619747,-88.953114,173.0,2020.0,Lake Egypt,2,1.66,Fair (2 violations),921184.5180000002
+988,Tanners Creek,IN,Dearborn,39.0814,-84.8594,1100.1,2015.0,Ohio River,0,0.0,Excellent (0 violations),5857775.0766
+991,Eagle Valley (IN),IN,Morgan,39.48517,-86.4183,301.6,2016.0,West fork of White River,1,1.43,Good (1 violation),1605949.4256
+994,AES Petersburg,IN,Pike,38.5281,-87.2525,804.9,2023.0,White River,0,0.0,Excellent (0 violations),4285904.153400001
+995,Bailly,IN,Porter,41.645,-87.1225,603.5,2018.0,Lake Michigan,0,0.63,Excellent (0 violations),3213496.281
+996,Dean H Mitchell,IN,Lake,41.6392,-87.4069,383.5,2010.0,Lake Michigan,2,1.8,Fair (2 violations),2042047.7610000002
+1004,Edwardsport,IN,Knox,38.8067,-87.2472,109.2,2011.0,West fork White River,3,2.31,Poor (3+ violations),581464.4472
+1008,R Gallagher,IN,Floyd,38.2636,-85.8381,600.0,2021.0,Ohio River,0,0.33,Excellent (0 violations),3194859.6
+1010,Wabash River,IN,Vigo,39.53,-87.4247,860.2,2016.0,Wabash River,0,0.26,Excellent (0 violations),4580363.713200001
+1012,F B Culley,IN,Warrick,37.9111,-87.3275,46.0,2006.0,Ohio River,3,2.84,Poor (3+ violations),244939.23600000003
+1024,Crawfordsville Power Plant,IN,Montgomery,40.048889,-86.8992,24.1,2023.0,Wells/Cooling Tower,2,1.42,Fair (2 violations),128326.86060000001
+1037,Peru (IN),IN,Miami,40.7551,-86.0575,34.5,2015.0,Wabash River,2,2.2,Fair (2 violations),183704.427
+1043,Frank E Ratts,IN,Pike,38.5201,-87.2662,233.2,2015.0,White River,2,1.65,Fair (2 violations),1241735.4312
+1046,Dubuque,IA,Dubuque,42.5031,-90.658611,15.0,2010.0,Mississippi River,3,3.01,Poor (3+ violations),79871.49
+1047,Lansing,IA,Allamakee,43.3359,-91.1675,338.5,2023.0,Mississippi River,1,1.2,Good (1 violation),1802433.2910000002
+1058,Sixth Street,IA,Linn,41.984768,-91.668611,84.7,2010.0,Cedar Lake,3,2.8,Poor (3+ violations),451007.68020000006
+1073,Prairie Creek,IA,Linn,41.944039,-91.639167,23.0,2010.0,Cedar River,3,2.96,Poor (3+ violations),122469.61800000002
+1077,Sutherland,IA,Marshall,42.047333,-92.859444,37.5,2010.0,Wells,3,2.89,Poor (3+ violations),199678.725
+1081,Riverside,IA,Scott,41.54,-90.4481,5.0,2013.0,Mississippi River,3,2.8,Poor (3+ violations),26623.83
+1082,Walter Scott Jr Energy Center,IA,Pottawattamie,41.18,-95.8408,130.6,2015.0,"Missouri River, Wells",2,2.2,Fair (2 violations),695414.4395999999
+1091,George Neal North,IA,Woodbury,42.32517,-96.37971,496.2,2016.0,Missouri River,1,1.3,Good (1 violation),2642148.8892
+1167,Muscatine Plant #1,IA,Muscatine,41.3917,-91.0569,18.0,2024.0,Mississippi River,2,1.8,Fair (2 violations),95845.788
+1175,Pella,IA,Marion,41.3981,-92.9144,38.0,2012.0,Municipality,3,2.73,Poor (3+ violations),202341.108
+1218,Fair Station,IA,Muscatine,41.4569,-90.8233,62.5,2013.0,Mississippi River,3,2.65,Poor (3+ violations),332797.875
+1250,Lawrence Energy Center,KS,Douglas,39.0072,-95.269167,87.0,2015.0,Kansas River,2,2.42,Fair (2 violations),463254.6420000001
+1252,Tecumseh Energy Center,KS,Shawnee,39.0539,-95.568889,232.0,2018.0,Kansas River,2,2.15,Fair (2 violations),1235345.712
+1353,Big Sandy,KY,Lawrence,38.1707,-82.6176,816.3,2015.0,Big Sandy River,0,0.99,Excellent (0 violations),4346606.485800002
+1355,E W Brown,KY,Mercer,37.78831,-84.71257,293.1,2019.0,Herrington Lake,2,1.64,Fair (2 violations),1560688.9146
+1357,Green River,KY,Muhlenberg,37.3636,-87.1214,263.6,2015.0,Green River,2,1.94,Fair (2 violations),1403608.3176
+1360,Pineville,KY,Bell,36.796667,-83.761388,37.5,2002.0,Cumberland River,3,3.2,Poor (3+ violations),199678.725
+1361,Tyrone,KY,Woodford,38.0478,-84.8483,75.0,2013.0,Kentucky River,3,2.55,Poor (3+ violations),399357.45
+1363,Cane Run,KY,Jefferson,38.1831,-85.8892,644.6,2015.0,Ohio River,0,1.22,Excellent (0 violations),3432344.1636000006
+1364,Mill Creek (KY),KY,Jefferson,38.0525,-85.9103,355.5,2024.0,Ohio River,1,1.11,Good (1 violation),1892954.3130000003
+1378,Paradise,KY,Muhlenberg,37.2608,-86.9783,2558.2,2020.0,Green River,0,0.0,Excellent (0 violations),13621816.3812
+1379,Shawnee,KY,McCracken,37.1517,-88.775,175.0,2014.0,Ohio River,3,2.17,Poor (3+ violations),931834.0500000002
+1381,Kenneth C Coleman,KY,Hancock,37.9631,-86.7911,602.0,2020.0,Ohio River,0,0.93,Excellent (0 violations),3205509.132
+1382,HMP&L Station Two Henderson,KY,Webster,37.6469,-87.5028,405.0,2019.0,Green River,1,1.35,Good (1 violation),2156530.2300000004
+1383,Robert A Reid,KY,Webster,37.6461,-87.5019,96.0,2020.0,Green River,2,1.92,Fair (2 violations),511177.5360000001
+1385,Dale,KY,Clark,37.8806,-84.2619,216.0,2016.0,Kentucky River,2,2.03,Fair (2 violations),1150149.4560000002
+1554,Herbert A Wagner,MD,Anne Arundel,39.1781,-76.5268,136.0,2020.0,Patapsco River,3,2.63,Poor (3+ violations),724168.176
+1573,Morgantown Generating Plant,MD,Charles,38.3592,-76.9767,1252.0,2022.0,Potomac River,1,0.8,Good (1 violation),6666607.032000001
+1626,Salem Harbor,MA,Essex,42.5256,-70.8772,329.6,2014.0,"Salem Harbor, Atlantic Ocean",3,2.8,Poor (3+ violations),1755042.8736000003
+1695,B C Cobb,MI,Muskegon,43.258768,-86.242268,312.6,2016.0,Muskegon Lake,1,1.36,Good (1 violation),1664521.8516000002
+1702,Dan E Karn,MI,Bay,43.644996,-83.840074,544.0,2023.0,Saginaw River,0,0.32,Excellent (0 violations),2896672.704
+1720,J C Weadock,MI,Bay,43.639927,-83.844712,312.6,2016.0,Saginaw River,1,1.42,Good (1 violation),1664521.8516000002
+1723,J R Whiting,MI,Monroe,41.792114,-83.44948,345.4,2016.0,Lake Erie (North Maumee Bay),1,1.31,Good (1 violation),1839174.1764000005
+1731,Harbor Beach,MI,Huron,43.8519,-82.6436,121.0,2013.0,Lake Huron,3,2.15,Poor (3+ violations),644296.686
+1732,Marysville,MI,St Clair,42.9256,-82.4606,200.0,2011.0,St Clair River,3,2.11,Poor (3+ violations),1064953.2000000002
+1740,River Rouge,MI,Wayne,42.2739,-83.1119,650.6,2021.0,Detroit River,0,0.27,Excellent (0 violations),3464292.7596000005
+1743,St Clair,MI,St Clair,42.7642,-82.4719,1547.0,2022.0,St Clair River,0,0.0,Excellent (0 violations),8237413.002000001
+1745,Trenton Channel,MI,Wayne,42.1217,-83.1808,775.5,2022.0,Trenton Channel,0,0.0,Excellent (0 violations),4129356.0330000008
+1769,Presque Isle,MI,Marquette,46.5789,-87.395,624.7,2019.0,Lake Superior,0,0.51,Excellent (0 violations),3326381.3202000004
+1830,James De Young,MI,Ottawa,42.7956,-86.1133,62.8,2017.0,Lake Macatawa,2,1.85,Fair (2 violations),334395.3048
+1831,Eckert Station,MI,Ingham,42.71839,-84.55808,375.0,2021.0,Grand River,1,0.8,Good (1 violation),1996787.2500000002
+1832,Erickson Station,MI,Eaton,42.692222,-84.657222,154.7,2022.0,Grand River,2,1.19,Fair (2 violations),823741.3002000002
+1843,Shiras,MI,Marquette,46.530598,-87.392206,77.5,2019.0,Lake Superior,2,1.69,Fair (2 violations),412669.36500000005
+1893,Clay Boswell,MN,Itasca,47.2611,-93.6528,150.0,2018.0,North Blackwater Lake,2,2.14,Fair (2 violations),798714.9
+1904,Black Dog,MN,Dakota,44.8108,-93.2501,357.79999999999995,2015.0,Minnesota River,1,1.89,Good (1 violation),1905201.2747999998
+1912,High Bridge,MN,Ramsey,44.9314,-93.1117,276.79999999999995,2007.0,Mississippi River,3,2.74,Poor (3+ violations),1473895.2287999997
+1927,Riverside (MN),MN,Hennepin,45.0203,-93.2753,238.8,2009.0,Mississippi River,3,2.66,Poor (3+ violations),1271554.1208000001
+1943,Hoot Lake,MN,Otter Tail,46.290641,-96.043252,136.9,2021.0,Otter Tail River,2,1.8,Fair (2 violations),728960.4654
+2008,Silver Lake,MN,Olmsted,44.02818,-92.460377,99.0,2015.0,Zumbro River,2,2.43,Fair (2 violations),527151.834
+2022,Willmar,MN,Kandiyohi,45.121705,-95.053236,4.0,2006.0,Wells,3,3.38,Poor (3+ violations),21299.064
+2076,Asbury,MO,Jasper,37.361315,-94.58926,231.5,2020.0,Wells,2,1.26,Fair (2 violations),1232683.3290000001
+2080,Montrose,MO,Henry,38.3114,-93.9348,564.0,2018.0,Montrose Lake,0,0.77,Excellent (0 violations),3003168.024
+2094,Sibley,MO,Jackson,39.178319,-94.184445,524.0,2018.0,Missouri River,0,0.85,Excellent (0 violations),2790177.384
+2104,Meramec,MO,St Louis,38.4017,-90.3358,648.0,2022.0,Mississippi River,0,0.43,Excellent (0 violations),3450448.3680000002
+2122,Chillicothe,MO,Livingston,39.783388,-93.564112,13.5,2004.0,Municipality,3,2.8,Poor (3+ violations),71884.34100000001
+2123,Columbia (MO),MO,Boone,38.964646,-92.316768,38.5,2019.0,Wells,2,1.8,Fair (2 violations),205003.49100000004
+2144,Marshall (MO),MO,Saline,39.1228,-93.2064,22.5,2016.0,Municipality,2,2.04,Fair (2 violations),119807.23500000002
+2161,James River Power Station,MO,Greene,37.108611,-93.261944,88.0,2017.0,Lake Springfield,2,1.8,Fair (2 violations),468579.40800000005
+2171,Missouri City,MO,Clay,39.231534,-94.307979,46.0,2016.0,Missouri River,2,1.97,Fair (2 violations),244939.23600000003
+2187,J E Corette Plant,MT,Yellowstone,45.77562,-108.480999,172.8,2015.0,Yellowstone River,2,1.8,Fair (2 violations),920119.5648000002
+2324,Reid Gardner,NV,Clark,36.657347,-114.633263,636.8,2017.0,Wells/Muddy River,0,0.7,Excellent (0 violations),3390810.9888000004
+2341,Mohave,NV,Clark,35.1458,-114.5917,1636.2,2012.0,Colorado River,1,0.87,Good (1 violation),8712382.129200002
+2442,Four Corners,NM,San Juan,36.69,-108.4814,633.4,2013.0,SAN JUAN RIVER/MORGAN LAKE,1,1.21,Good (1 violation),3372706.7844000002
+2451,San Juan,NM,San Juan,36.8006,-108.4386,1848.0,2022.0,San Juan River,0,0.2,Excellent (0 violations),9840167.568
+2527,Greenidge Generation LLC,NY,Yates,42.6789,-76.9483,50.0,2009.0,Seneca Lake,3,2.98,Poor (3+ violations),266238.30000000005
+2642,Rochester 7,NY,Monroe,43.268889,-77.629444,252.6,2008.0,Lake Ontario,3,2.8,Poor (3+ violations),1345035.8916
+2706,Asheville,NC,Buncombe,35.4731,-82.5417,413.6,2020.0,Lake Julian (Powell Creek),1,1.33,Good (1 violation),2202323.2176000006
+2708,Cape Fear,NC,Chatham,35.595,-79.0495,328.5,2012.0,Cape Fear River,2,2.21,Fair (2 violations),1749185.6310000003
+2709,HF Lee Plant,NC,Wayne,35.379866,-78.087795,402.4,2012.0,H F Lee Lake,2,2.06,Fair (2 violations),2142685.8384000002
+2713,L V Sutton Steam,NC,New Hanover,34.283056,-77.985278,671.6,2013.0,Sutton Lake (Catfish Creek),1,1.42,Good (1 violation),3576112.8456
+2716,W H Weatherspoon,NC,Robeson,34.587538,-78.97552,165.5,2011.0,Weatherspoon Lake(Lumber River,3,2.63,Poor (3+ violations),881248.773
+2718,G G Allen,NC,Gaston,35.1897,-81.0122,1148.4,2024.0,Lake Wylie,0,0.0,Excellent (0 violations),6114961.2744
+2720,Buck,NC,Rowan,35.7133,-80.3767,370.0,2013.0,Yadkin River,2,2.02,Fair (2 violations),1970163.4200000002
+2721,James E. Rogers Energy Complex,NC,Cleveland,35.22,-81.7594,1010.0,2011.0,Broad River,1,0.89,Good (1 violation),5378013.66
+2723,Dan River,NC,Rockingham,36.4862,-79.7208,290.0,2012.0,Dan River,3,2.3,Poor (3+ violations),1544182.1400000001
+2732,Riverbend,NC,Gaston,35.36,-80.9742,466.0,2013.0,Catawba River,2,1.8,Fair (2 violations),2481340.9560000002
+2790,R M Heskett,ND,Morton,46.8669,-100.8836,115.0,2022.0,Missouri River,2,1.96,Fair (2 violations),612348.0900000001
+2824,Stanton,ND,Mercer,47.286643,-101.331908,190.2,2017.0,Missouri River,2,2.2,Fair (2 violations),1012770.4932000001
+2830,Walter C Beckjord,OH,Clermont,38.9917,-84.2981,1221.3,2014.0,Ohio River,1,0.8,Good (1 violation),6503136.7158
+2832,Miami Fort,OH,Hamilton,39.1128,-84.8036,263.2,2015.0,Ohio River,2,2.17,Fair (2 violations),1401478.4112
+2848,O H Hutchings,OH,Montgomery,39.6088,-84.2921,414.0,2015.0,Great Miami River,1,1.91,Good (1 violation),2204453.1240000003
+2861,Niles Power Plant,OH,Trumbull,41.166928,-80.74769,265.6,2012.0,Mahoning River,3,2.45,Poor (3+ violations),1414257.8495999998
+2878,FirstEnergy Bay Shore,OH,Lucas,41.6917,-83.4378,498.79999999999995,2012.0,Lake Erie,2,1.99,Fair (2 violations),2655993.2807999994
+2908,Lake Road (OH),OH,Cuyahoga,41.527778,-81.649444,160.0,1994.0,Lake Erie,3,3.2,Poor (3+ violations),851962.56
+2914,Dover (OH),OH,Tuscarawas,40.520066,-81.46815,4.0,2007.0,Tuscarawas River,3,3.2,Poor (3+ violations),21299.064
+2937,Piqua Power Plant,OH,Miami,40.133848,-84.237258,44.8,2007.0,River Miami,3,3.07,Poor (3+ violations),238549.51680000004
+2942,St Marys,OH,Auglaize,40.5458,-84.3889,16.0,2007.0,Grand Lake St Marys,3,3.13,Poor (3+ violations),85196.256
+2943,Shelby Municipal Light Plant,OH,Richland,40.88,-82.6567,37.0,2013.0,Municipality,3,2.8,Poor (3+ violations),197016.342
+2963,Northeastern,OK,Rogers,36.4317,-95.7008,473.0,2016.0,Verdigris River,1,1.14,Good (1 violation),2518614.318
+3113,Portland (PA),PA,Northampton,40.910205,-75.079398,255.0,2013.0,Delaware River,3,2.2,Poor (3+ violations),1357815.33
+3115,Titus,PA,Berks,40.3056,-75.9081,225.0,2013.0,Schuylkill River,3,2.23,Poor (3+ violations),1198072.35
+3122,Homer City Generating Station,PA,Indiana,40.512825,-79.196107,2012.0,2024.0,Two Lick Creek,0,0.0,Excellent (0 violations),10713429.192
+3130,Seward (PA),PA,Indiana,40.40625,-79.03366,218.2,2003.0,Conemaugh River,3,2.72,Poor (3+ violations),1161863.9412000002
+3132,Warren,PA,Warren,41.835947,-79.188668,84.0,2002.0,Allegheny River,3,3.03,Poor (3+ violations),447280.34400000004
+3138,New Castle Plant,PA,Lawrence,40.937939,-80.369007,70.0,1993.0,Beaver River,3,3.2,Poor (3+ violations),372733.62
+3148,TalenEnergy Martins Creek,PA,Northampton,40.797762,-75.105416,312.4,2007.0,Delaware River,2,2.43,Fair (2 violations),1663456.8984000003
+3149,TalenEnergy Montour,PA,Montour,41.0714,-76.6672,17.2,2019.0,Susquehanna River,2,2.2,Fair (2 violations),91585.9752
+3152,Sunbury Generation LP,PA,Snyder,40.8361,-76.825,437.9,2014.0,Susquehanna River,2,1.78,Fair (2 violations),2331715.0314000007
+3159,Cromby Generating Station,PA,Chester,40.1531,-75.5294,187.5,2011.0,Schuylkill River,3,2.43,Poor (3+ violations),998393.6250000001
+3161,Eddystone Generating Station,PA,Delaware,39.858,-75.323,707.2,2012.0,Delaware River,1,1.49,Good (1 violation),3765674.5152000007
+3251,H B Robinson,SC,Darlington,34.4017,-80.1589,206.6,2012.0,Lake Robinson,3,2.77,Poor (3+ violations),1100096.6556000002
+3264,W S Lee,SC,Anderson,34.6022,-82.435,180.0,2014.0,Saluda River,3,2.69,Poor (3+ violations),958457.8800000001
+3280,Canadys Steam,SC,Colleton,33.0647,-80.6228,489.6,2013.0,Edisto River,2,2.2,Fair (2 violations),2607005.4336
+3317,Dolphus M Grainger,SC,Horry,33.826655,-79.053368,163.2,2012.0,Waccamaw River,3,2.84,Poor (3+ violations),869001.8112000001
+3319,Jefferies,SC,Berkeley,33.244404,-79.990909,345.6,2012.0,Lake Moultrie/Tail Race Canal,2,2.5,Fair (2 violations),1840239.1296000003
+3325,Ben French,SD,Pennington,44.087235,-103.260959,25.0,2014.0,Wells,3,2.8,Poor (3+ violations),133119.15000000002
+3393,Allen,TN,Shelby,35.074087,-90.14868,990.0,2018.0,Mississippi River,0,0.33,Excellent (0 violations),5271518.34
+3396,Bull Run,TN,Anderson,36.0211,-84.1567,950.0,2023.0,Clinch River,0,0.2,Excellent (0 violations),5058527.7
+3405,John Sevier,TN,Hawkins,36.3767,-82.9639,800.0,2014.0,Holston River,1,1.0,Good (1 violation),4259812.800000001
+3406,Johnsonville,TN,Humphreys,36.0278,-87.9861,1485.2,2017.0,Tennessee River,0,0.0,Excellent (0 violations),7908342.463200001
+3419,Watts Bar Fossil,TN,Rhea,35.6108,-84.7811,240.0,2011.0,Tennessee River,3,2.21,Poor (3+ violations),1277943.84
+3492,Morgan Creek,TX,Mitchell,32.3358,-100.9156,800.0,,Lake Colorado City,2,1.72,Fair (2 violations),4259812.800000001
+3497,Big Brown,TX,Freestone,31.8206,-96.0544,1986.8,2018.0,Fairfield Lake,1,0.8,Good (1 violation),10579245.0888
+3502,Lake Creek,TX,McLennan,31.4647,-96.985,800.0,,Lake Creek Lake,2,1.77,Fair (2 violations),4259812.800000001
+3644,Carbon,UT,Carbon,39.7272,-110.8644,188.6,2015.0,Price River,2,2.21,Fair (2 violations),1004250.8676000001
+3775,Clinch River,VA,Russell,36.9333,-82.1997,237.5,2015.0,Clinch River,2,1.92,Fair (2 violations),1264631.925
+3776,Glen Lyn,VA,Giles,37.3706,-80.8633,337.5,2015.0,New River,1,1.75,Good (1 violation),1797108.5250000001
+3797,Chesterfield,VA,Chesterfield,37.3822,-77.3833,1352.9,2023.0,James River,0,0.0,Excellent (0 violations),7203875.9214
+3803,Chesapeake,VA,Chesapeake,36.7711,-76.3019,649.5,2015.0,S Branch Elizabeth River,0,1.24,Excellent (0 violations),3458435.5170000005
+3809,Yorktown,VA,York,37.2144,-76.4611,375.0,2019.0,York River,1,1.46,Good (1 violation),1996787.2500000002
+3845,Transalta Centralia Generation,WA,Lewis,46.755938,-122.859764,729.9,2020.0,Skookumchuck River,0,0.34,Excellent (0 violations),3886546.7034000005
+3936,Kanawha River,WV,Kanawha,38.2056,-81.4211,439.2,2017.0,Kanawha River,1,1.77,Good (1 violation),2338637.2272000005
+3938,Philip Sporn,WV,Mason,38.9669,-81.9231,1105.5,2015.0,Ohio River,0,0.73,Excellent (0 violations),5886528.813
+3942,FirstEnergy Albright,WV,Preston,39.488611,-79.636944,278.2,2012.0,Cheat River,3,2.64,Poor (3+ violations),1481349.9012
+3945,FirstEnergy Rivesville,WV,Marion,39.531389,-80.113056,109.7,2012.0,Monongahela River,3,3.0,Poor (3+ violations),584126.8302000002
+3946,FirstEnergy Willow Island,WV,Pleasants,39.367222,-81.30001,213.2,2012.0,Ohio River,3,2.75,Poor (3+ violations),1135240.1112000002
+3992,Blount Street,WI,Dane,43.0789,-89.3744,87.5,2011.0,Lake Monona,3,2.45,Poor (3+ violations),465917.0250000001
+4040,Port Washington Generating Station,WI,Ozaukee,43.3842,-87.8689,320.0,2004.0,Lake Michigan,2,2.46,Fair (2 violations),1703925.12
+4041,South Oak Creek,WI,Milwaukee,42.8457,-87.8294,598.4,2024.0,Lake Michigan,0,0.27,Excellent (0 violations),3186339.9744
+4050,Edgewater,WI,Sheboygan,43.715142,-87.705863,420.0,2018.0,Lake Michigan,1,1.17,Good (1 violation),2236401.72
+4054,Nelson Dewey Generating Station,WI,Grant,42.7225,-91.0085,227.2,2015.0,Mississippi River,2,1.77,Fair (2 violations),1209786.8352
+4072,Pulliam,WI,Brown,44.54,-88.0086,410.2,2018.0,Green Bay,1,1.2,Good (1 violation),2184219.0132000004
+4078,Weston,WI,Marathon,44.8606,-89.6553,60.0,2015.0,Wisconsin River,2,2.21,Fair (2 violations),319485.96
+4125,Manitowoc,WI,Manitowoc,44.082,-87.6558,15.0,2003.0,Lake Michigan,3,3.2,Poor (3+ violations),79871.49
+4140,Alma,WI,Buffalo,44.308333,-91.911111,181.0,2014.0,Mississippi River,3,1.98,Poor (3+ violations),963782.6460000002
+4143,Genoa,WI,Vernon,43.5589,-91.2325,345.6,2021.0,Mississippi River,1,0.99,Good (1 violation),1840239.1296000003
+4150,Neil Simpson,WY,Campbell,44.2872,-105.3878,21.7,2014.0,Wells,3,2.81,Poor (3+ violations),115547.42220000002
+4151,Osage (WY),WY,Weston,43.9703,-104.4106,34.5,2014.0,Wells,3,2.8,Poor (3+ violations),183704.427
+4941,Navajo,AZ,Coconino,36.9047,-111.3886,2409.3,2019.0,Lake Powell,0,0.2,Excellent (0 violations),12828958.7238
+6017,Newton,IL,Jasper,38.9361,-88.2781,617.4,2016.0,"Laws Creek, Sandy Creek",0,1.02,Excellent (0 violations),3287510.5284000007
+6052,Wansley,GA,Heard,33.41342,-85.032329,1904.0,2022.0,Chattahoochee River,0,0.0,Excellent (0 violations),10138354.464
+6055,Big Cajun 2,LA,Pointe Coupee,30.7261,-91.3692,730.0,,Mississippi River,2,1.8,Fair (2 violations),3887079.1800000006
+6061,R D Morrow,MS,Lamar,31.2186,-89.394,400.0,2018.0,Wells,2,2.2,Fair (2 violations),2129906.4000000004
+6064,Nearman Creek,KS,Wyandotte,39.1681,-94.6975,261.0,,Missouri River,3,2.27,Poor (3+ violations),1389763.926
+6076,Colstrip,MT,Rosebud,45.8831,-106.614,716.0,2020.0,Yellowstone River,0,0.86,Excellent (0 violations),3812532.4560000007
+6085,R M Schahfer,IN,Jasper,41.2164,-87.0261,1096.4,2021.0,Kankakee River,0,0.0,Excellent (0 violations),5838073.4424
+6089,Lewis & Clark,MT,Richland,47.6785,-104.15665,50.0,2021.0,Yellowstone River,2,1.8,Fair (2 violations),266238.30000000005
+6090,Sherburne County,MN,Sherburne,45.3808,-93.8931,765.3,2023.0,Mississippi River,0,0.41,Excellent (0 violations),4075043.4198000007
+6095,Sooner,OK,Noble,36.45307,-97.05279,950.0,,Sooner Lake,1,0.8,Good (1 violation),5058527.7
+6106,Boardman,OR,Morrow,45.693182,-119.808819,642.2,2020.0,Carty Reservoir,0,0.2,Excellent (0 violations),3419564.7252
+6124,McIntosh,GA,Effingham,32.356287,-81.168347,177.6,2019.0,Savannah River,2,1.66,Fair (2 violations),945678.4416000001
+6137,A B Brown,IN,Posey,37.9053,-87.715,530.4,2023.0,Ohio River,0,0.24,Excellent (0 violations),2824255.8863999997
+6139,Welsh,TX,Titus,33.05522,-94.839993,558.0,2016.0,Swauano Creek Reserv,1,2.02,Good (1 violation),2971219.428
+6146,Martin Lake,TX,Rusk,32.2606,-94.5706,800.0,,Martin Lake,2,1.8,Fair (2 violations),4259812.800000001
+6147,Monticello,TX,Titus,33.0917,-95.0417,2780.0,2018.0,Monticello Reservoir,1,1.05,Good (1 violation),14802849.480000002
+6155,Rush Island,MO,Jefferson,38.131248,-90.263157,1242.0,2024.0,Mississippi River,0,0.0,Excellent (0 violations),6613359.372000001
+6170,Pleasant Prairie,WI,Kenosha,42.5381,-87.9033,1233.2,2018.0,Lake Michigan,0,0.0,Excellent (0 violations),6566501.431200001
+6180,Oak Grove (TX),TX,Robertson,31.1803,-96.4866,1601.6,,Twin Oak Reservoir,2,1.12,Fair (2 violations),8528145.225600002
+6181,J T Deely,TX,Bexar,29.308056,-98.3228,932.0,2023.0,Calaveras Lake,1,0.87,Good (1 violation),4962681.9120000005
+6238,Pearl Station,IL,Pike,39.449185,-90.614119,22.0,2012.0,Illinois River,3,2.8,Poor (3+ violations),117144.85200000001
+6257,Scherer,GA,Monroe,33.0606,-83.8075,891.0,2022.0,Lake Juliette,0,0.2,Excellent (0 violations),4744366.506000001
+6648,Sandow No 4,TX,Milam,30.565871,-97.064032,590.6,2018.0,Lake Alcoa,1,1.74,Good (1 violation),3144806.7996
+6772,Hugo,OK,Choctaw,34.0158,-95.3206,750.0,,Kiamichi River,1,0.95,Good (1 violation),3993574.5000000005
+7030,Major Oak Power,TX,Robertson,31.091925,-96.69503,600.0,,Wells,2,2.02,Fair (2 violations),3194859.6
+7286,Richard Gorsuch,OH,Washington,39.3664,-81.5211,200.0,2010.0,Ohio River,3,2.65,Poor (3+ violations),1064953.2000000002
+7537,North Branch (WV),WV,Grant,39.2633,-79.3308,80.0,2012.0,Air Cooled Condensor,3,3.08,Poor (3+ violations),425981.28
+7549,Milwaukee County,WI,Milwaukee,43.046,-88.0281,11.0,2016.0,Municipality,2,2.21,Fair (2 violations),58572.42600000001
+7790,Bonanza,UT,Uintah,40.0864,-109.2844,110.0,,Green River,3,2.31,Poor (3+ violations),585724.2600000001
+7902,Pirkey,TX,Harrison,32.4607,-94.4852,721.0,2023.0,Brandy Branch Reserv,1,1.14,Good (1 violation),3839156.286000001
+8223,Springerville,AZ,Apache,34.3186,-109.1639,400.0,,Wells,2,1.8,Fair (2 violations),2129906.4000000004
+10025,"RED-Rochester, LLC",NY,Monroe,43.1989,-77.6319,50.9,2007.0,Lake Ontario,3,3.04,Poor (3+ violations),271030.58940000006
+10075,Taconite Harbor Energy Center,MN,Cook,47.5314,-90.9114,252.0,2023.0,Lake Superior,2,1.51,Fair (2 violations),1341841.032
+10202,Fernandina Beach Mill,FL,Nassau,30.681823,-81.455413,9.3,2003.0,Wells,4,3.62,Poor (3+ violations),49520.3238
+10252,Domtar Kingsport Mill,TN,Sullivan,36.5489,-82.5667,4.0,1999.0,River Treated Internally,3,3.2,Poor (3+ violations),21299.064
+10302,Juniata Locomotive Shop,PA,Blair,40.533299,-78.384125,4.0,2015.0,Municipality,2,2.48,Fair (2 violations),21299.064
+10320,Enka,NC,Buncombe,35.533333,-82.65,16.3,2001.0,,4,3.8,Poor (3+ violations),86793.68579999999
+10360,Consumer Operations LLC,WI,Brown,44.4936,-88.0303,73.2,2014.0,Lower Fox River,3,2.28,Poor (3+ violations),389772.8712
+10474,4 AC Station,IN,Lake,41.68,-87.426389,135.0,1999.0,Lake Michigan,3,3.13,Poor (3+ violations),718843.4099999999
+10678,AES Warrior Run Cogeneration Facility,MD,Allegany,39.595171,-78.745333,229.0,2024.0,City Of Cumberland Water Suppl,3,2.3,Poor (3+ violations),1219371.414
+10793,Seaford Delaware Plant,DE,Sussex,38.6311,-75.6261,10.0,2009.0,Nanticoke River,4,3.73,Poor (3+ violations),53247.66
+10860,Archer Daniels Midland Clinton,IA,Clinton,41.8206,-90.2097,31.4,2008.0,Well,3,3.1,Poor (3+ violations),167197.6524
+10866,Archer Daniels Midland Peoria,IL,Peoria,40.677188,-89.604911,15.0,2013.0,Illinois River,3,2.77,Poor (3+ violations),79871.49
+50083,Washington State University,WA,Whitman,46.729444,-117.170833,2.0,2005.0,Wells,3,2.8,Poor (3+ violations),10649.532
+50189,Domtar Paper Co LLC Plymouth NC,NC,Martin,35.8628,-76.7831,15.0,2006.0,Roanoke River,3,3.35,Poor (3+ violations),79871.49
+50275,Park 500 Philip Morris USA,VA,Chesterfield,37.3389,-77.2806,6.1,2013.0,Municipality,3,2.63,Poor (3+ violations),32481.0726
+50308,Utility Plants Section,AK,Fairbanks North Star,64.825601,-147.648627,2.5,2009.0,Municipality,3,2.8,Poor (3+ violations),13311.915
+50392,Eielson AFB Central Heat & Power Plant,AK,Fairbanks North Star,64.67141,-147.075988,5.0,2022.0,Cooling Pond / 3 Wells,2,1.8,Fair (2 violations),26623.83
+50398,International Paper Savanna Mill,GA,Chatham,32.100354,-81.124248,37.5,2001.0,Wells,3,2.98,Poor (3+ violations),199678.725
+50636,Brainerd Public Utilities,MN,Crow Wing,46.3758,-94.1817,0.6,2014.0,Mississippi River,3,2.8,Poor (3+ violations),3194.8596000000007
+50879,Wheelabrator Frackville Energy,PA,Schuylkill,40.782377,-76.176184,48.0,2020.0,Mine Pool,2,2.07,Fair (2 violations),255588.76800000004
+50900,Covington Facility,VA,Alleghany,37.799722,-79.9947,21.0,2013.0,Jackson River,3,2.57,Poor (3+ violations),111820.08600000001
+50976,Indiantown Cogeneration LP,FL,Martin,27.0389,-80.5125,395.4,2020.0,Taylor Creek,2,2.0,Fair (2 violations),2105412.4764
+52007,Mecklenburg Power Station,VA,Mecklenburg,36.59951,-78.52991,139.8,2019.0,John H Kerr Reservoir,2,1.87,Fair (2 violations),744402.2868
+52048,Vanderbilt University Power Plant,TN,Davidson,36.145896,-86.803833,11.0,2014.0,Municipality,3,2.51,Poor (3+ violations),58572.42600000001
+52071,Sandow No 5,TX,Milam,30.5681,-97.0614,1024.5,2018.0,Alcoa Lake Treatment System,1,1.25,Good (1 violation),5455222.767
+54081,Spruance Operating Services LLC,VA,Richmond City,37.4556,-77.4308,114.8,2021.0,James River,2,1.8,Fair (2 violations),611283.1368000001
+54201,Iowa State University,IA,Story,42.0275,-93.6394,3.0,2004.0,Wells,3,3.33,Poor (3+ violations),15974.298000000003
+54216,U S Alliance Coosa Pines,AL,Talladega,33.328107,-86.356825,25.0,2008.0,Coosa River,4,3.8,Poor (3+ violations),133119.15000000002
+54276,Univ of NC Chapel Hill Cogen Facility,NC,Orange,35.9069,-79.0617,24.0,,Orange Water & Sewer Authority,3,2.69,Poor (3+ violations),127794.38400000002
+54335,Morton Salt Rittman,OH,Wayne,40.9692,-81.7756,1.5,2015.0,Wells,2,2.76,Fair (2 violations),7987.149000000001
+54414,John Deere Dubuque Works,IA,Dubuque,42.5734,-90.6926,14.0,2010.0,Wells,3,3.01,Poor (3+ violations),74546.724
+54965,Cargill Salt,MI,St Clair,42.8183,-82.4856,1.9,2002.0,Saint Clair River,3,3.2,Poor (3+ violations),10117.055400000001
+55638,Walhalla,ND,Pembina,48.908944,-97.886521,2.0,2012.0,Municipality,3,2.8,Poor (3+ violations),10649.532
+55821,Curtis H Stanton Energy Center,FL,Orange,28.488246,-81.166944,329.0,,Stanton Energy Center,3,2.41,Poor (3+ violations),1751848.0140000002
+56163,Kennecott Power Plant,UT,Salt Lake,40.7119,-112.1225,182.0,2019.0,Wells,2,2.04,Fair (2 violations),969107.4120000001
+56642,Ely Energy Center,NV,White Pine,39.5,-114.783333,1500.0,,Wells,1,0.8,Good (1 violation),7987149.000000001
+58063,SABIC Innovative Plastics Mt. Vernon,IN,Posey,37.910278,-87.926111,5.5,2017.0,Ohio River,2,1.99,Fair (2 violations),29286.213000000003
+58194,West Campus Steam Plant,PA,Centre,40.792778,-77.864722,6.0,2015.0,campus water,2,2.49,Fair (2 violations),31948.596000000005
+60373,SunCoke Energy South Shore Facility,KY,Greenup,38.738,-82.925,90.0,,Ohio River,3,2.42,Poor (3+ violations),479228.94000000006
+65284,Dickerson,MD,Montgomery,39.2097,-77.4644,588.0,2020.0,Potomac River,1,1.82,Good (1 violation),3130962.4080000003
+65285,Chalk Point Steam,MD,Prince Georges,38.5444,-76.6861,728.0,2021.0,Patuxent River,1,1.56,Good (1 violation),3876429.6480000005

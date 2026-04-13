@@ -1,0 +1,21 @@
+Plant Code,Plant Name,State,Nameplate Capacity (MW),suitability_score
+10202,Fernandina Beach Mill,FL,9.3,4
+10320,Enka,NC,16.3,4
+10793,Seaford Delaware Plant,DE,10.0,4
+54216,U S Alliance Coosa Pines,AL,25.0,4
+3,Barry,AL,272.0,3
+79,Chena Power Plant,AK,3.8,3
+462,W N Clark,CO,43.7,3
+465,Arapahoe,CO,240.5,3
+468,Cameo,CO,75.0,3
+508,Lamar Plant,CO,43.5,3
+594,Indian River Generating Station,DE,340.0,3
+642,Scholz,FL,98.0,3
+699,Arkwright,GA,89.2,3
+897,Vermilion,IL,182.3,3
+964,Lakeside,IL,75.0,3
+1004,Edwardsport,IN,109.2,3
+1012,F B Culley,IN,46.0,3
+1046,Dubuque,IA,15.0,3
+1058,Sixth Street,IA,84.7,3
+1073,Prairie Creek,IA,23.0,3
